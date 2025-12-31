@@ -1,10 +1,10 @@
-# 🧮 Advanced Graphing Calculator Agent
+# 🧮 Advanced Graphing Calculator
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![PyQt6](https://img.shields.io/badge/PyQt6-v6.4+-green?style=for-the-badge&logo=qt)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.7+-red?style=for-the-badge&logo=python)
 
-Advanced Graphing Calculator Agent is a desktop application built with Python and PyQt6 that combines scientific calculator functionality with a powerful 2D function plotter. This application is designed to provide an intuitive user experience with a synchronized input system between the physical keyboard and the visual interface.
+Advanced Graphing Calculator is a desktop application built with Python and PyQt6 that combines scientific calculator functionality with a powerful 2D function plotter. This application is designed to provide an intuitive user experience with a synchronized input system between the physical keyboard and the visual interface.
 
 ## ✨ Key Features
 
